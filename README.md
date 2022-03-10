@@ -8,4 +8,4 @@
 * Файловой структуры по Nested БЭМ
 
 ## Итог:
-[Получившаяся страница](https://fiersekaz.github.io/Russian_travel/)
+[Ссылка на страницу](https://fiersekaz.github.io/Russian_travel/)
