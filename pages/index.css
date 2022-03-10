@@ -3,10 +3,11 @@
 @import url(../block/link/link.css);
 
 @import url(../block/page/page.css);
+@import url(../block/content/content.css);
 
 
 @import url(../block/header/header.css);
-@import url(../block/logo/logo.css);
+@import url(../block//header/__logo/header__logo.css);
 @import url(../block/header/__lang-links/header__lang-links.css);
 @import url(../block/header/__lang-link/header__lang-link.css);
 @import url(../block/header/__lang-links/_active/header__lang-links_active.css);
